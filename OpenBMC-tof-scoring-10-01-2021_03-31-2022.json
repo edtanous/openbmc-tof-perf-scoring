@@ -1,0 +1,1322 @@
+{
+    "Alan-Kuo-TW": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "Alpana07": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "Awesomex005": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "BMC-Bruce": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "ChicagoDuan": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "FighterNan": {
+        "qualified": true,
+        "points": 53,
+        "commits": 16,
+        "reviews": 5,
+        "percentile": 90,
+        "rank": 16
+    },
+    "GTValentine": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "HCL-BMC": {
+        "qualified": false,
+        "points": 10,
+        "commits": 3,
+        "reviews": 1,
+        "percentile": 63,
+        "rank": 61
+    },
+    "Howitzer105mm": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "IsaacPK": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    },
+    "JamesMihm": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "Jayashree-D": {
+        "qualified": false,
+        "points": 13,
+        "commits": 3,
+        "reviews": 4,
+        "percentile": 71,
+        "rank": 47
+    },
+    "JinFuLin": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "Kostr": {
+        "qualified": true,
+        "points": 39,
+        "commits": 13,
+        "reviews": 0,
+        "percentile": 87,
+        "rank": 21
+    },
+    "Krellan": {
+        "qualified": false,
+        "points": 12,
+        "commits": 3,
+        "reviews": 3,
+        "percentile": 69,
+        "rank": 51
+    },
+    "LeeTroy": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "Lexden12": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "Logananth-s": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "MedicineYeh": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "MichaelShepos": {
+        "qualified": false,
+        "points": 12,
+        "commits": 4,
+        "reviews": 0,
+        "percentile": 69,
+        "rank": 51
+    },
+    "Nikhil-Ashoka": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    },
+    "Pavithrab7": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "PlotCondor": {
+        "qualified": true,
+        "points": 21,
+        "commits": 7,
+        "reviews": 0,
+        "percentile": 80,
+        "rank": 33
+    },
+    "PrithviAPai": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "PriyangaRamasamy": {
+        "qualified": false,
+        "points": 12,
+        "commits": 4,
+        "reviews": 0,
+        "percentile": 69,
+        "rank": 51
+    },
+    "RameshIyyar": {
+        "qualified": false,
+        "points": 9,
+        "commits": 2,
+        "reviews": 3,
+        "percentile": 61,
+        "rank": 63
+    },
+    "RashmicaG": {
+        "qualified": false,
+        "points": 7,
+        "commits": 2,
+        "reviews": 1,
+        "percentile": 55,
+        "rank": 74
+    },
+    "Shakeebbk": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "Snehalatha44": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "SpencerKu": {
+        "qualified": true,
+        "points": 18,
+        "commits": 6,
+        "reviews": 0,
+        "percentile": 77,
+        "rank": 37
+    },
+    "SrideviRamesh": {
+        "qualified": false,
+        "points": 7,
+        "commits": 2,
+        "reviews": 1,
+        "percentile": 55,
+        "rank": 74
+    },
+    "Srisuk": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "SunnySrivastava1984": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "ZhikuiRen": {
+        "qualified": true,
+        "points": 21,
+        "commits": 2,
+        "reviews": 15,
+        "percentile": 80,
+        "rank": 33
+    },
+    "aahmed-2": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "adathatri": {
+        "qualified": false,
+        "points": 3,
+        "commits": 0,
+        "reviews": 3,
+        "percentile": 39,
+        "rank": 100
+    },
+    "alatarum": {
+        "qualified": true,
+        "points": 20,
+        "commits": 5,
+        "reviews": 5,
+        "percentile": 78,
+        "rank": 35
+    },
+    "amboar": {
+        "qualified": true,
+        "points": 111,
+        "commits": 32,
+        "reviews": 15,
+        "percentile": 98,
+        "rank": 3
+    },
+    "ankitagawade23": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "anoo1": {
+        "qualified": true,
+        "points": 63,
+        "commits": 19,
+        "reviews": 6,
+        "percentile": 92,
+        "rank": 13
+    },
+    "apuli1": {
+        "qualified": false,
+        "points": 7,
+        "commits": 0,
+        "reviews": 7,
+        "percentile": 55,
+        "rank": 74
+    },
+    "arun-pm": {
+        "qualified": false,
+        "points": 7,
+        "commits": 2,
+        "reviews": 1,
+        "percentile": 55,
+        "rank": 74
+    },
+    "arunlalkm-intel": {
+        "qualified": false,
+        "points": 4,
+        "commits": 0,
+        "reviews": 4,
+        "percentile": 43,
+        "rank": 94
+    },
+    "asmithakarun": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "austinfcui": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    },
+    "awiatrow": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "bentyner": {
+        "qualified": true,
+        "points": 28,
+        "commits": 9,
+        "reviews": 1,
+        "percentile": 83,
+        "rank": 28
+    },
+    "bjwyman": {
+        "qualified": true,
+        "points": 94,
+        "commits": 31,
+        "reviews": 1,
+        "percentile": 96,
+        "rank": 5
+    },
+    "boyercee": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "bradbishop": {
+        "qualified": true,
+        "points": 56,
+        "commits": 18,
+        "reviews": 2,
+        "percentile": 90,
+        "rank": 15
+    },
+    "brandonkimbk": {
+        "qualified": true,
+        "points": 22,
+        "commits": 3,
+        "reviews": 13,
+        "percentile": 80,
+        "rank": 32
+    },
+    "chnguyen-ampere": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "christianjchoi": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "cjcain": {
+        "qualified": true,
+        "points": 30,
+        "commits": 10,
+        "reviews": 0,
+        "percentile": 83,
+        "rank": 27
+    },
+    "cmazieri-hcl": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "cnpalmer": {
+        "qualified": false,
+        "points": 4,
+        "commits": 0,
+        "reviews": 4,
+        "percentile": 43,
+        "rank": 94
+    },
+    "daylight22": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "depate": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "derekhoward55": {
+        "qualified": false,
+        "points": 3,
+        "commits": 0,
+        "reviews": 3,
+        "percentile": 39,
+        "rank": 100
+    },
+    "devenrao": {
+        "qualified": true,
+        "points": 17,
+        "commits": 2,
+        "reviews": 11,
+        "percentile": 75,
+        "rank": 40
+    },
+    "dheerajpdsk": {
+        "qualified": false,
+        "points": 13,
+        "commits": 4,
+        "reviews": 1,
+        "percentile": 71,
+        "rank": 47
+    },
+    "dhruvibm": {
+        "qualified": false,
+        "points": 4,
+        "commits": 1,
+        "reviews": 1,
+        "percentile": 43,
+        "rank": 94
+    },
+    "dixsie": {
+        "qualified": true,
+        "points": 19,
+        "commits": 6,
+        "reviews": 1,
+        "percentile": 78,
+        "rank": 36
+    },
+    "dkodihal": {
+        "qualified": false,
+        "points": 2,
+        "commits": 0,
+        "reviews": 2,
+        "percentile": 9,
+        "rank": 149
+    },
+    "dvcyw": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "eddiejames": {
+        "qualified": true,
+        "points": 18,
+        "commits": 6,
+        "reviews": 0,
+        "percentile": 77,
+        "rank": 37
+    },
+    "edtanous": {
+        "qualified": true,
+        "points": 336,
+        "commits": 88,
+        "reviews": 72,
+        "percentile": 100,
+        "rank": 0
+    },
+    "garzam": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "gauravgandhi70": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "gchithra": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "geissonator": {
+        "qualified": true,
+        "points": 53,
+        "commits": 15,
+        "reviews": 8,
+        "percentile": 90,
+        "rank": 16
+    },
+    "gkeishin": {
+        "qualified": true,
+        "points": 93,
+        "commits": 28,
+        "reviews": 9,
+        "percentile": 96,
+        "rank": 6
+    },
+    "gokulsvg": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "gtmills": {
+        "qualified": true,
+        "points": 40,
+        "commits": 7,
+        "reviews": 19,
+        "percentile": 87,
+        "rank": 20
+    },
+    "harveyquta": {
+        "qualified": false,
+        "points": 4,
+        "commits": 1,
+        "reviews": 1,
+        "percentile": 43,
+        "rank": 94
+    },
+    "ibmzach": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "iklm": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "ikmsk10": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "jayaprakashmutyala": {
+        "qualified": true,
+        "points": 15,
+        "commits": 5,
+        "reviews": 0,
+        "percentile": 73,
+        "rank": 43
+    },
+    "jaypadath": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "jclaz": {
+        "qualified": false,
+        "points": 3,
+        "commits": 0,
+        "reviews": 3,
+        "percentile": 39,
+        "rank": 100
+    },
+    "jebr224": {
+        "qualified": true,
+        "points": 31,
+        "commits": 9,
+        "reviews": 4,
+        "percentile": 84,
+        "rank": 26
+    },
+    "jiaqingz-intel": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    },
+    "jk-ozlabs": {
+        "qualified": false,
+        "points": 2,
+        "commits": 0,
+        "reviews": 2,
+        "percentile": 9,
+        "rank": 149
+    },
+    "jmbills": {
+        "qualified": true,
+        "points": 42,
+        "commits": 13,
+        "reviews": 3,
+        "percentile": 88,
+        "rank": 19
+    },
+    "johnwedig": {
+        "qualified": true,
+        "points": 32,
+        "commits": 8,
+        "reviews": 8,
+        "percentile": 84,
+        "rank": 25
+    },
+    "jonathan-doman": {
+        "qualified": false,
+        "points": 8,
+        "commits": 2,
+        "reviews": 2,
+        "percentile": 55,
+        "rank": 73
+    },
+    "joseph-reynolds": {
+        "qualified": false,
+        "points": 11,
+        "commits": 3,
+        "reviews": 2,
+        "percentile": 64,
+        "rank": 59
+    },
+    "jwludzik": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "karthikeyan55": {
+        "qualified": false,
+        "points": 3,
+        "commits": 0,
+        "reviews": 3,
+        "percentile": 39,
+        "rank": 100
+    },
+    "kazmierczak-lukasz": {
+        "qualified": true,
+        "points": 17,
+        "commits": 4,
+        "reviews": 5,
+        "percentile": 75,
+        "rank": 40
+    },
+    "kennyneedsmilky": {
+        "qualified": true,
+        "points": 15,
+        "commits": 5,
+        "reviews": 0,
+        "percentile": 73,
+        "rank": 43
+    },
+    "krzysztof-i": {
+        "qualified": true,
+        "points": 47,
+        "commits": 12,
+        "reviews": 11,
+        "percentile": 89,
+        "rank": 18
+    },
+    "linchuyuan": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "lkammath": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "lotus0007": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    },
+    "ltarlton": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "lxwinspur": {
+        "qualified": true,
+        "points": 86,
+        "commits": 28,
+        "reviews": 2,
+        "percentile": 94,
+        "rank": 9
+    },
+    "maksymko": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "manashsarma": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "manikandan-e": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "manojkiraneda": {
+        "qualified": true,
+        "points": 65,
+        "commits": 21,
+        "reviews": 2,
+        "percentile": 92,
+        "rank": 12
+    },
+    "mdmillerii": {
+        "qualified": false,
+        "points": 3,
+        "commits": 0,
+        "reviews": 3,
+        "percentile": 39,
+        "rank": 100
+    },
+    "meghagn12345": {
+        "qualified": true,
+        "points": 39,
+        "commits": 13,
+        "reviews": 0,
+        "percentile": 87,
+        "rank": 21
+    },
+    "mikecgithub": {
+        "qualified": true,
+        "points": 33,
+        "commits": 10,
+        "reviews": 3,
+        "percentile": 85,
+        "rank": 24
+    },
+    "mine260309": {
+        "qualified": true,
+        "points": 87,
+        "commits": 26,
+        "reviews": 9,
+        "percentile": 95,
+        "rank": 8
+    },
+    "minimada": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    },
+    "msbarth": {
+        "qualified": true,
+        "points": 86,
+        "commits": 23,
+        "reviews": 17,
+        "percentile": 94,
+        "rank": 9
+    },
+    "msnidhin": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "mszopinx": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "naveenmosess": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    },
+    "nest1ing": {
+        "qualified": false,
+        "points": 4,
+        "commits": 1,
+        "reviews": 1,
+        "percentile": 43,
+        "rank": 94
+    },
+    "ojayanth": {
+        "qualified": true,
+        "points": 57,
+        "commits": 16,
+        "reviews": 9,
+        "percentile": 91,
+        "rank": 14
+    },
+    "osenft": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "patelutpal": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "paulfertser": {
+        "qualified": false,
+        "points": 12,
+        "commits": 4,
+        "reviews": 0,
+        "percentile": 69,
+        "rank": 51
+    },
+    "peterlundgren": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "peterp-ibm": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "phawryle": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "potinlai": {
+        "qualified": false,
+        "points": 7,
+        "commits": 2,
+        "reviews": 1,
+        "percentile": 55,
+        "rank": 74
+    },
+    "prkatti1": {
+        "qualified": false,
+        "points": 14,
+        "commits": 2,
+        "reviews": 8,
+        "percentile": 72,
+        "rank": 46
+    },
+    "quadpixels": {
+        "qualified": false,
+        "points": 12,
+        "commits": 4,
+        "reviews": 0,
+        "percentile": 69,
+        "rank": 51
+    },
+    "raghulr-ami": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "rahulmah": {
+        "qualified": true,
+        "points": 15,
+        "commits": 1,
+        "reviews": 12,
+        "percentile": 73,
+        "rank": 43
+    },
+    "rajez133": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "ratagupt": {
+        "qualified": false,
+        "points": 12,
+        "commits": 3,
+        "reviews": 3,
+        "percentile": 69,
+        "rank": 51
+    },
+    "rfrandse": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "rramyasr": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "rthomaiy": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "sagisin": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "sampmisr": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "sandeepasingh116": {
+        "qualified": false,
+        "points": 11,
+        "commits": 3,
+        "reviews": 2,
+        "percentile": 64,
+        "rank": 59
+    },
+    "santoshpuranik": {
+        "qualified": false,
+        "points": 12,
+        "commits": 4,
+        "reviews": 0,
+        "percentile": 69,
+        "rank": 51
+    },
+    "saravanan-palanisamy": {
+        "qualified": false,
+        "points": 3,
+        "commits": 0,
+        "reviews": 3,
+        "percentile": 39,
+        "rank": 100
+    },
+    "sbteeks": {
+        "qualified": true,
+        "points": 18,
+        "commits": 6,
+        "reviews": 0,
+        "percentile": 77,
+        "rank": 37
+    },
+    "sdompke": {
+        "qualified": true,
+        "points": 28,
+        "commits": 9,
+        "reviews": 1,
+        "percentile": 83,
+        "rank": 28
+    },
+    "shrsuman123": {
+        "qualified": false,
+        "points": 13,
+        "commits": 4,
+        "reviews": 1,
+        "percentile": 71,
+        "rank": 47
+    },
+    "smccarney": {
+        "qualified": true,
+        "points": 26,
+        "commits": 5,
+        "reviews": 11,
+        "percentile": 81,
+        "rank": 31
+    },
+    "spinler": {
+        "qualified": true,
+        "points": 91,
+        "commits": 25,
+        "reviews": 16,
+        "percentile": 95,
+        "rank": 7
+    },
+    "sricharitha": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "sumbhat90": {
+        "qualified": false,
+        "points": 5,
+        "commits": 1,
+        "reviews": 2,
+        "percentile": 43,
+        "rank": 93
+    },
+    "sunharis": {
+        "qualified": false,
+        "points": 10,
+        "commits": 2,
+        "reviews": 4,
+        "percentile": 63,
+        "rank": 61
+    },
+    "sunitakx": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "susilsi7": {
+        "qualified": true,
+        "points": 16,
+        "commits": 5,
+        "reviews": 1,
+        "percentile": 74,
+        "rank": 42
+    },
+    "swe12345": {
+        "qualified": false,
+        "points": 4,
+        "commits": 1,
+        "reviews": 1,
+        "percentile": 43,
+        "rank": 94
+    },
+    "tejas-patil20": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "thangqn-ampere": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "thangtran-ampere": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "timlee66": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    },
+    "tomjoseph83": {
+        "qualified": true,
+        "points": 28,
+        "commits": 9,
+        "reviews": 1,
+        "percentile": 83,
+        "rank": 28
+    },
+    "vbodired": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "velumanit": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "viarand": {
+        "qualified": false,
+        "points": 3,
+        "commits": 1,
+        "reviews": 0,
+        "percentile": 39,
+        "rank": 100
+    },
+    "vmauery": {
+        "qualified": false,
+        "points": 12,
+        "commits": 2,
+        "reviews": 6,
+        "percentile": 69,
+        "rank": 51
+    },
+    "vprisbud": {
+        "qualified": false,
+        "points": 3,
+        "commits": 0,
+        "reviews": 3,
+        "percentile": 39,
+        "rank": 100
+    },
+    "wak-google": {
+        "qualified": true,
+        "points": 104,
+        "commits": 30,
+        "reviews": 14,
+        "percentile": 97,
+        "rank": 4
+    },
+    "williamspatrick": {
+        "qualified": true,
+        "points": 292,
+        "commits": 78,
+        "reviews": 58,
+        "percentile": 99,
+        "rank": 1
+    },
+    "wltu": {
+        "qualified": true,
+        "points": 69,
+        "commits": 21,
+        "reviews": 6,
+        "percentile": 93,
+        "rank": 11
+    },
+    "wrightjl1": {
+        "qualified": true,
+        "points": 39,
+        "commits": 13,
+        "reviews": 0,
+        "percentile": 87,
+        "rank": 21
+    },
+    "ya-mouse": {
+        "qualified": false,
+        "points": 6,
+        "commits": 2,
+        "reviews": 0,
+        "percentile": 52,
+        "rank": 79
+    },
+    "yoojae": {
+        "qualified": false,
+        "points": 1,
+        "commits": 0,
+        "reviews": 1,
+        "percentile": 7,
+        "rank": 152
+    },
+    "zane131": {
+        "qualified": true,
+        "points": 114,
+        "commits": 37,
+        "reviews": 3,
+        "percentile": 98,
+        "rank": 2
+    },
+    "zevweiss": {
+        "qualified": false,
+        "points": 2,
+        "commits": 0,
+        "reviews": 2,
+        "percentile": 9,
+        "rank": 149
+    },
+    "zhanghch05": {
+        "qualified": false,
+        "points": 13,
+        "commits": 4,
+        "reviews": 1,
+        "percentile": 71,
+        "rank": 47
+    },
+    "zmoose": {
+        "qualified": false,
+        "points": 9,
+        "commits": 3,
+        "reviews": 0,
+        "percentile": 61,
+        "rank": 63
+    }
+}
